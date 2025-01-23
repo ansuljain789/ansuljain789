@@ -2,12 +2,16 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansuljain789" alt="ansuljain789" /></a> </p>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&random=false&width=435&color=000000&lines=Hi+%F0%9F%91%8B%2C+I'm+Ansul+Jain;A+Passionate+problem+Solver👨‍💻+;Coding+enthusiast+;Excited+to+solve+real-world+problem+;" alt="Typing SVG" /></a></h1>
+<br>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ansuljain789&label=Profile%20views&color=0e75b6&style=flat" alt="ansuljain789" /> </p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ansuljain789&label=Profile%20views&color=0e75b6&style=flat" alt="ansuljain789" /> </p>
-
-
-
+ 💫About Me
 - 🌱 I’m currently learning **Full stack development(Java Stack:Spring boot)**
 
 - 💬 Ask me about **Hi, I'm Ansul Jain, A Student and Learner 🚀 from Odisha India, currently 💻 doing my undergraduate BTECH (3rd year) from Biju pattnaaik university of technology and I am passionate about technology and want to learn & explore new technologies.Love to solve problem .**
