@@ -12,7 +12,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
  💫About Me
-- 🌱 I’m currently learning **Full stack development(Java Stack:Spring boot)** and Building extensive Project **Full stack development(JavaScript:Node_JS)**
+- 🌱 I’m currently learning **Full stack development(Java Stack)** and Building extensive Project **Full stack development(JavaScript:Node_JS)**
 
 - 💬 Ask me about **Hi, I'm Ansul Jain, A Student and Learner 🚀 from Odisha India, currently 💻 doing my undergraduate BTECH (3rd year) from Biju pattnaaik university of technology and I am passionate about technology and want to learn & explore new technologies.Love to solve problem .**
 
