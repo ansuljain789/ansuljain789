@@ -3,9 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansuljain789" alt="ansuljain789" /></a> </p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&random=false&width=435&color=000000&lines=Hi+%F0%9F%91%8B%2C+I'm+Ansul+Jain;A+Passionate+problem+Solver👨‍💻+;Coding+enthusiast+;Excited+to+solve+real-world+problem+;" alt="Typing SVG" /></a></h1>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&random=false&width=435&color=000000&lines=Hi+%F0%9F%91%8B%2C+I'm+Mihir+Meher;A+Passionate+Problem+Solver+%F0%9F%91%A9%F0%9F%92%BB;Coding+Enthusiast;Excited+to+Solve+Real-World+Problems)](https://git.io/typing-svg)
+
+</div>
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansuljain789&label=Profile%20views&color=0e75b6&style=flat" alt="ansuljain789" /> </p>
