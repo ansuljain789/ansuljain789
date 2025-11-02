@@ -16,7 +16,7 @@
  💫About Me
 - 🌱 I’m currently learning **Full stack development** and Building extensive Project **Full stack development(JavaScript:Node_JS)**
 
-- 💬 Ask me about **Hi, I'm Ansul Jain, A Student and Learner 🚀 from Odisha India, currently 💻 doing my undergraduate BTECH (3rd year) from Biju pattnaaik university of technology and I am passionate about technology and want to learn & explore new technologies.Love to solve problem .**
+- 💬 Ask me about **Hi, I'm Ansul Jain,A Student and Learner 🚀from Odisha India, currently 💻 I am in Final year of my undergraduate BTECH from Biju pattnaaik university of technology and I am passionate about technology and want to learn & explore new technologies.Love to solve problem .**
 
 - 📫 How to reach me **ansuljain789@gmail.com**
 
