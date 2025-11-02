@@ -42,8 +42,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansuljain789&show_icons=true&locale=en" alt="ansuljain789" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ansuljain789" alt="ansuljain789" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ansuljain789" alt="ansuljain789" /></p> -->
 
-[![Kamran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ansuljain789&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ansuljain789/ansuljain789/github-readme-activity-graph)
+[![Ansul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ansuljain789&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ansuljain789/ansuljain789/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
